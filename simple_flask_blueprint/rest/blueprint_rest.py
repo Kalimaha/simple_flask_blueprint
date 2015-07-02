@@ -6,5 +6,9 @@ bp = Blueprint('simple_flask_blueprint', __name__)
 
 
 @bp.route('/')
-def discovery():
+def say_hallo_service():
     return say_hallo()
+
+@bp.route('/<name>/')
+def say_hallo_to_guest_service(name):
+    return say_hallo(name)
