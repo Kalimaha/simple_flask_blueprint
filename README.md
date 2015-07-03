@@ -2,7 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/Kalimaha/simple_flask_blueprint/badge.svg?branch=master)](https://coveralls.io/r/Kalimaha/simple_flask_blueprint?branch=master)
 
 # Simple Flask Blueprint
-Simple Blueprint for REST services developed with Flask.
+Simple Blueprint for REST services developed with Flask. This project has been created for a tutorial described on [Kalimadev Blog](http://wp.me/p61qQI-s).
 
 Developed with 
 --------------
